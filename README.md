@@ -1,6 +1,2 @@
-# Hello-World
-"This repository is for practising the GitHub Flow."
-# Project Title
-**Description**
-*How to Run Program*
-> Files Used
+#About Me
+This is a short description about me. I am a sophomore at the University of Iowa studying Marketing and Business Analytics. 
